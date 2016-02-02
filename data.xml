@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<All>         
+        <task>
+              <question>How many oceans border Canada??</question>
+              <option>1</option>
+              <option>2</option>
+              <option>3</option>
+			  <option>4</option>
+			  <answer>3</answer>
+        </task>         
+        <task>
+              <question>What major sporting event was held in Canada in 2010?</question>
+              <option>Summer Olympics</option>
+              <option>Winter Olympics</option>
+              <option>World Cup</option>
+			  <answer>Winter Olympics</answer>
+        </task>         
+        <task>
+              <question>What is Canada’s national sport?</question>
+              <option>Hockey</option>
+              <option>Lacrosse</option>
+              <option>Curling</option>
+			  <option>None of the above</option>
+			  <answer>Hockey</answer>
+        </task> 
+		<task>
+              <question>What are the two most multicultural cities in Canada?</question>
+              <option>Toronto and Montreal</option>
+              <option>Victoria and Toronto</option>
+              <option>Vancouver and Toronto</option>
+			  <answer>Vancouver and Toronto</answer>
+        </task>
+		<task>
+              <question>What is the population of Canada?</question>
+              <option>30 million</option>
+              <option>23 million</option>
+              <option>B32 million</option>
+			  <answer>32 million</answer>
+        </task>          
+</All>
